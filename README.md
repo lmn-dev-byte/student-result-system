@@ -1,4 +1,33 @@
+
 # 🎓 Student Result System
+
+A modern Student Result Management System built using React and Vite.
+
+## 🌐 Live Demo
+
+🔗 # 🎓 Student Result System
+
+A modern Student Result Management System built using React and Vite.
+
+## 🌐 Live Demo
+
+🔗 https://student-result-system-57nk.onrender.com
+
+## 🚀 Features
+
+- Student Result Dashboard
+- Add Student Records
+- View Academic Results
+- Search Students
+- Responsive Design
+
+## 🚀 Features
+
+- Student Result Dashboard
+- Add Student Records
+- View Academic Results
+- Search Students
+- Responsive Design# 🎓 Student Result System
 
 A modern Student Result Management System built using React and Vite. This application helps manage and display student academic results in a clean and user-friendly interface.
 
